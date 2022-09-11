@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShaderPostProcessing",
+			"Path": "/Volumes/MacEXT/Unreal/Unreal Projects/ShaderPostProcessing/Source/ShaderPostProcessing.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShaderPostProcessingEditor",
+			"Path": "/Volumes/MacEXT/Unreal/Unreal Projects/ShaderPostProcessing/Source/ShaderPostProcessingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
